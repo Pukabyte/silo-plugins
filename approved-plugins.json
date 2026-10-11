@@ -17,6 +17,12 @@
       "repository": "Silo-Community/silo-plugin-tailscale",
       "approved_at": "2026-09-22",
       "review_url": "https://github.com/Silo-Community/silo-plugins/issues/8"
+    },
+    {
+      "plugin_id": "community.mediux",
+      "repository": "Silo-Community/silo-plugin-mediux",
+      "approved_at": "2026-10-11",
+      "review_url": "https://github.com/Silo-Community/silo-plugins/issues/14"
     }
   ]
 }

@@ -33,10 +33,6 @@ GOWORK=off go test ./...
 GOWORK=off go run ./cmd/check-catalog
 ```
 
-## Proposed plugins
-
-- [Mediux Artwork](https://github.com/Pukabyte/silo-plugin-mediux): movie/series artwork, season posters, and episode title cards with ordered creator preferences. [Review notes](proposals/mediux.md). This proposal is not an approved catalog entry; repository ownership and maintainer review remain pending.
-
 ## License
 
 The catalog tooling is licensed under `Apache-2.0`. See [LICENSE](LICENSE).
